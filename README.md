@@ -9,7 +9,7 @@ Read if you want to see my featured projects and skills.
 <a href="https://coneastdev.github.io/web">Websites Repo</a>
 The repo containing websites of mine that are small projects and don't deserve an individal page.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coneastdev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coneastdev/coneastdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
