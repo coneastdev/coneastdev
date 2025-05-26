@@ -1,4 +1,15 @@
-## Hi there 👋
+## I'm coneastdev, a full-time digital student at middlesbrough college UK. I mainly do javascript and python.
+
+<a href="https://www.linkedin.com/in/coneastdev/">LinkedIn</a>
+You can contact me on linked In.
+
+<a href="https://coneastdev.github.io">My Website</a>
+Read if you want to see my featured projects and skills.
+
+<a href="https://coneastdev.github.io/web">Websites Repo</a>
+The repo containing websites of mine that are small projects and don't deserve an individal page.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coneastdev/coneastdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
