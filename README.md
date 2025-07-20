@@ -4,7 +4,7 @@
 ### My main skills
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,astro,ts,tailwind,sass,git" />
 
-### Other skills
+### Other
 <img src="https://skillicons.dev/icons?i=arch,rust,vscodium,sqlite,svg,qt,cpp,cmake,md,figma,flask,bootstrap,bash" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coneastdev)](https://github.com/anuraghazra/github-readme-stats)
 
