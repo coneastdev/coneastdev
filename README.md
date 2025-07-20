@@ -1,5 +1,5 @@
 ### Hi I'm connor, you can contact me on linkedin or email
-[<img width="48px" src="https://coneastdev.github.io/tinyicons_fork/images/svg/linkedin.svg">](https://www.linkedin.com/in/coneastdev/)[<img width="48px" src="https://coneastdev.github.io/tinyicons_fork/images/svg/protonmail.svg">](mailto:coneastdev@proton.me)
+[<img width="48px" src="https://github.com/edent/SuperTinyIcons/raw/refs/heads/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/coneastdev/)[<img width="48px" src="https://github.com/edent/SuperTinyIcons/raw/refs/heads/master/images/svg/protonmail.svg">](mailto:coneastdev@proton.me)
 
 ### My main skills
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,astro,ts,tailwind,sass,git" />
