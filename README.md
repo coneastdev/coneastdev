@@ -1,11 +1,11 @@
-### Hi I'm connor, you can contact me on linkedin or email
+### Hi I'm connor, you can contact me on linkedin or email <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/gifs/wave.gif">
 [<img width="48px" src="https://github.com/edent/SuperTinyIcons/raw/refs/heads/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/coneastdev/)[<img width="48px" src="https://github.com/edent/SuperTinyIcons/raw/refs/heads/master/images/svg/protonmail.svg">](mailto:coneastdev@proton.me)
 
 ### My main skills
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,astro,ts,tailwind,sass,git" />
 
 ### Other skills
-<img src="https://skillicons.dev/icons?i=arch,rust,vscodium,sqlite,svg,git,qt,cpp,cmake,md,figma,flask,bootstrap,bash" />
+<img src="https://skillicons.dev/icons?i=arch,rust,vscodium,sqlite,svg,qt,cpp,cmake,md,figma,flask,bootstrap,bash" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coneastdev)](https://github.com/anuraghazra/github-readme-stats)
 
 **coneastdev/coneastdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
