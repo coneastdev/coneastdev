@@ -1,10 +1,11 @@
 ## I'm coneastdev, a full-time digital student at middlesbrough college UK. I mainly do javascript and python.
 Contact me
-<a href="https://www.linkedin.com/in/coneastdev/"><svg width="4vw" xmlns="http://www.w3.org/2000/svg" aria-label="LinkedIn" role="img" viewBox="0 0 512 512" fill="#fff"><path d="m0 0H512V512H0" fill="#0077b5"/><circle cx="142" cy="138" r="37"/><path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198"/><path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32"/><svg width="4vw" xmlns="http://www.w3.org/2000/svg" aria-label="Proton Mail" role="img" viewBox="0 0 512 512"><path d="m0 0H512V512H0" fill="#fff"/><linearGradient id="a" x1=".8" y1="1"><stop offset="0" stop-color="#d8cbff"/><stop offset="1" stop-color="#9d7aff"/></linearGradient><radialGradient id="b" cx="1.4" cy="0" r="1.6"><stop offset=".6" stop-color="#6d4aff"/><stop offset="1" stop-color="#aa8eff"/></radialGradient><path fill="url(#a)" d="M332 395h60a36 36 0 0036-36V124c0-8-8-10-12-7L279 232c-16 13-35 10-48-2L99 119c-7-7-15-2-15 5v60"/><path fill="url(#b)" d="M84 183v176a36 36 0 0036 36h235V168l-50 42-74 66s-17 13-36 0"/></svg>
-![proton](https://github.com/user-attachments/assets/a4e48808-c861-472e-a27f-f81ac9ab1651)
-</svg>
-![linkedin](https://github.com/user-attachments/assets/dcef266b-f618-4958-ad76-e4df6ee1b447)
-</a><a herf="mailto:coneastdev@proton.me"></a>
+<a href="https://www.linkedin.com/in/coneastdev/"><svg width="32px" xmlns="http://www.w3.org/2000/svg" aria-label="LinkedIn" role="img" viewBox="0 0 512 512" fill="#fff"><path d="m0 0H512V512H0" fill="#0077b5"/><circle cx="142" cy="138" r="37"/><path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198"/><path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32"/></svg>
+![linkedin](https://github.com/user-attachments/assets/5731aa49-9738-4b7f-a8ca-62ab7b71c356)
+</a>
+</a><a herf="mailto:coneastdev@proton.me"><svg width="32px" xmlns="http://www.w3.org/2000/svg" aria-label="Proton Mail" role="img" viewBox="0 0 512 512"><path d="m0 0H512V512H0" fill="#fff"/><linearGradient id="a" x1=".8" y1="1"><stop offset="0" stop-color="#d8cbff"/><stop offset="1" stop-color="#9d7aff"/></linearGradient><radialGradient id="b" cx="1.4" cy="0" r="1.6"><stop offset=".6" stop-color="#6d4aff"/><stop offset="1" stop-color="#aa8eff"/></radialGradient><path fill="url(#a)" d="M332 395h60a36 36 0 0036-36V124c0-8-8-10-12-7L279 232c-16 13-35 10-48-2L99 119c-7-7-15-2-15 5v60"/><path fill="url(#b)" d="M84 183v176a36 36 0 0036 36h235V168l-50 42-74 66s-17 13-36 0"/></svg>
+![proton](https://github.com/user-attachments/assets/9010ede3-5672-4165-863a-d63088dc45e9)
+</a>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coneastdev)](https://github.com/anuraghazra/github-readme-stats)
 
